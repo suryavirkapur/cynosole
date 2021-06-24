@@ -1,4 +1,4 @@
-> This project has not been archived. 
+> This project has now been archived. 
 
 # cynosole
 An extremely simple idea, that allowed people with disablities to play games.
